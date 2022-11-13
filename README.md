@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Obadaa-Kahlous
+- 👋 Hello, I’m Obadaa-Kahlous, a front-end web developer 
 - 💻 Junior Front-end Developer (React.js) 
-- I always look forward to learning something new in my field or in any other field
+- 😄 I always look forward to learning something new in my field or in any other field
 
 <!---
 Obadaa-Kahlous/Obadaa-Kahlous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
